@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Ceramics"
+title: "Seaglides through Ocean"
 date: 2016
 published: false
 labels:
