@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "idk"
-date: 2000
+date: 2019
 published: true
 labels:
   - something creative
