@@ -3,14 +3,13 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Seaglides through Ocean"
-date: 2016
-published: false
+date: 2019
+published: true
 labels:
-  - Ceramics
-  - Pottery
-  - Clay
-  - Art
-summary: "Making ceramic figures."
+  - Underwater Vehicle
+  - Summer Project
+  - SeaGlide
+summary: "Constructing a Seaglide"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
