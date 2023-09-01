@@ -1,54 +1,29 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Embarking on a Journey to Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2022-25-08
+published: true
 labels:
   - Engineering
+  - Software Engineering
+  - Computer Science
+  - Gaming Development
+  - JavaScript
+  - Software Applications
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+As a newcomer to the world of software engineering, I am profoundly intrigued by the boundless opportunities this field offers to shape my future. I am excited to embark on this journey, eager to develop a diverse set of skills and experiences that will enable me to contribute to the ever-evolving world of technology. My initial exposure to JavaScript has ignited a passion for coding that I intend to channel into worlds of gaming development and software applications.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## JavaScript is my buddy
+JavaScript’s versatility makes it a valuable tool for both web-based gaming development and software application development. I aspire to strengthen my knowledge of JavaScript, diving into advanced concepts like asynchronous programming, closures, and design patterns. This fundamental language proficiency is essential for developing robust and interactive software.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Gaming Development desire 
+For gaming development, I aim to acquire expertise in game engines and frameworks that will empower me to bring gaming ideas to life. I am eager to understand the physics, graphics rendering, and scripting languages required for visually stunning gaming experiences.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Joining forces
+Moreover, I understand that collaboration is a vital aspect of the software engineering profession. I hope to join collaborative coding projects, contribute to open-source communities, and seek mentorship from experienced developers. These experiences will provide valuable insights, exposure to different coding styles, and opportunities to refine my teamwork and communication skills.
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+In conclusion, my aspirations in software engineering are fueled by the excitement of JavaScript’s possibilities and creative realms of gaming development and software applications. My path forward is mastering JavaScript, exploring gaming development, and fostering a collaborative spirit within the software engineering community. As a newcomer, I am eager to grow, innovate, and ultimately create software that enriches the digital landscape for users worldwide.
