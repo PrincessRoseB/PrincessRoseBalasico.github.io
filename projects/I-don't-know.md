@@ -3,13 +3,13 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "idk"
-date: 2019
+date: 2022
 published: true
 labels:
-  - something creative
-  - Arduino
-  - java? Javascript
-summary: "I GOT IT bulding that hydro thing."
+  - Essay Project 
+  - Yule Sabbat
+  - Religion
+summary: "The engagement of Yule Sabbat Holiday."
 ---
 
 <div class="text-center p-4">
@@ -18,18 +18,9 @@ summary: "I GOT IT bulding that hydro thing."
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-This hydro thng i forgot what it is called but i had to solder and troubleshoot the system it was fun! lol olo lol
+This essay is about the Yule Sabbat holiday is a "Christmas" holiday derive from the Pagan religion. As I was fascinated by the pagan religion it has caught my eye to one of the most underated interesting religions to study for since time went on, there is people who would do hardcore traditions and people who'd do modern traditions. It talks about the comparison of old traditions to 21st century tweakings to similes of depicting santa claus.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+In the making for this essay I have learned punctiual grammar and vocabularies that had helped me through becoming a more profound person. Including the difference of people's religion that had change them to who they are today which made myself a open minded to whatever is put into my life. Although the attractiveness to this religion could may default to their insights, it had given me no judgement to one or all beliefs that may lead to a predicament.
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+
+My essay about Yule Sabbat is here --> [The Value of Yule Sabbat](https://docs.google.com/document/d/1yc_cxn9zLIaPFtv64bcfWmfjpgk_rUt0kDxXBxFuYLc/edit?usp=sharing).
