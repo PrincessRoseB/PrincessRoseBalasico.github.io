@@ -40,6 +40,7 @@ that creates their way of expressing themselves?
 </pre>
 
 <hr>
-
+ [Subjective Essay](https://docs.google.com/document/d/18ZAHW6dg9n-ab7lhfQNIz7BMGfR5IaLo/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true).
+ [Objective Essay](https://docs.google.com/document/d/1Apwogj6Was1bOKvR1_3axwDVW1avxGgd/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true).
 Subjective Essay: <a href=https://docs.google.com/document/d/18ZAHW6dg9n-ab7lhfQNIz7BMGfR5IaLo/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true</a>
 Objective Essay: <a href=https://docs.google.com/document/d/1Apwogj6Was1bOKvR1_3axwDVW1avxGgd/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true</a>
