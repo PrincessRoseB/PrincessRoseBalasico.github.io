@@ -6,8 +6,10 @@ title: "Concept of Art"
 date: 2022
 published: ture
 labels:
-  - Lisp
-  - GitHub
+  - Subjective
+  - Objective
+  - Painting
+  - Art
 summary: "Appreciating the world of Art Subjectively and Objectively."
 ---
 <img src="img/download.jpg">
