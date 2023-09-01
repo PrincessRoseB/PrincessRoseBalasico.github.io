@@ -12,7 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img class="![IMG_8157](https://github.com/PrincessRoseBalasico/PrincessRoseBalasico.github.io/assets/143157251/eceab9fd-1c0f-434c-84cd-693cba1e6267)">
+<img class="https://www.roboticgizmos.com/wp-content/uploads/2019/11/07/Seaglider-Autonomous-Underwater-Vehicle.jpg">
 
 
 
