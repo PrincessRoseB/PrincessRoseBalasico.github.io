@@ -12,7 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img src=".. img/IMG_8157.jpg">
+
 
 
 
