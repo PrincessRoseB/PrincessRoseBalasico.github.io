@@ -12,8 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img class="![image](https://github.com/PrincessRoseBalasico/PrincessRoseBalasico.github.io/assets/143157251/ab23b28e-3177-46ff-888f-0e0855ae6789)
-">
+<img class="![IMG_8157](https://github.com/PrincessRoseBalasico/PrincessRoseBalasico.github.io/assets/143157251/eceab9fd-1c0f-434c-84cd-693cba1e6267)">
 
 
 
