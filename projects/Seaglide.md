@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/IMG_8157.jpg
+image: 
 title: "Seaglides through Ocean"
 date: 2019
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img class = "first image" src="..https://images.app.goo.gl/AGgxvd5JGMRsr26f6">
+<img class = "first image" src=" img/IMG_8157.jpg">
 
 
 
