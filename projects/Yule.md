@@ -12,11 +12,6 @@ labels:
 summary: "The engagement of Yule Sabbat Holiday."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 This essay is about the Yule Sabbat holiday is a "Christmas" holiday derive from the Pagan religion. As I was fascinated by the pagan religion it has caught my eye to one of the most underated interesting religions to study for since time went on, there is people who would do hardcore traditions and people who'd do modern traditions. It talks about the comparison of old traditions to 21st century tweakings to similes of depicting santa claus.
 
