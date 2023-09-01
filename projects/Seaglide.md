@@ -12,7 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img class="https://www.roboticgizmos.com/wp-content/uploads/2019/11/07/Seaglider-Autonomous-Underwater-Vehicle.jpg">
+<img class="https://images.app.goo.gl/AGgxvd5JGMRsr26f6">
 
 
 
