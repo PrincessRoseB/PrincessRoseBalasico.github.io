@@ -12,7 +12,7 @@ labels:
 summary: "Constructing a Seaglide"
 ---
 
-<img class = "first image" src="https://images.app.goo.gl/AGgxvd5JGMRsr26f6">
+<img class = "first image" src="..https://images.app.goo.gl/AGgxvd5JGMRsr26f6">
 
 
 
