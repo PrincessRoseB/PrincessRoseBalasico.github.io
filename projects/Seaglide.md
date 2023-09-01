@@ -19,8 +19,9 @@ summary: "Constructing a Seaglide"
 <hr>
 
 <pre>
-  A Seaglide is an underwater vehicle equip to do any various mission that could last in the ocean for months at a time.
-This project was a smaller version of an orignal seaglider that is collecting data in the ocean as of right now!
+  A Seaglide is an underwater vehicle equip to do any various mission that could last in
+the ocean for months at a time.This project was a smaller version of an orignal seaglider
+that is collecting data in the ocean as of right now!
 I had to compact all of the equipment inside a water bottle which was the neatest thing.
   
 <---------------------------------------------->
@@ -31,9 +32,14 @@ from inspirations or ideas that has never been
 done before.
 <---------------------------------------------->
 
-I had to build this seaglide from the ground up. I also had to follow some tutorials on how use things since this was my very first time handling with heated and toxic materials. Building the seaglider had taken my half of the program since it had consists of dedigning, soldering, wiring, and troubleshooting. With the help of mentors guiding me throught the process, I had a finishing product.
+I had to build this seaglide from the ground up. I also had to follow some tutorials on how to
+use things since this was my very first time handling with heated and toxic materials. Building 
+the seaglider had taken my half of the program since it had consists of dedigning, soldering, 
+wiring, and troubleshooting. With the help of mentors guiding me throught the process,
+I had a finishing product.
 
-Overall, the moment of testing and failing gave me the courage to not give up because what comes along is the blood, sweat and tears that makes challenges memorable and knowledgeable.
+Overall, the moment of testing and failing gave me the courage to not give up because what comes 
+along is the blood, sweat and tears that makes challenges memorable and knowledgeable.
 
 
 
