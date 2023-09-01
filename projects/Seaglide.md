@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/IMG_8157.jpg
 title: "Seaglides through Ocean"
 date: 2019
 published: true
