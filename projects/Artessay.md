@@ -12,7 +12,7 @@ labels:
   - Art
 summary: "Appreciating the world of Art Subjectively and Objectively."
 ---
-<img src="img/download.jpg">
+
 
 
  ***Third of May 1808*** by the artist Fransico de Goya is one of the most famous painting that 
