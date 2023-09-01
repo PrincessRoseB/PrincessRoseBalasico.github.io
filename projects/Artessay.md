@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/download.jpg
-title: ""
+image: 
+title: "Concept of Art"
 date: 2022
 published: ture
 labels:
@@ -10,8 +10,8 @@ labels:
   - GitHub
 summary: "Appreciating the world of Art Subjectively and Objectively."
 ---
+image: img/download.jpg
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
  ***Third of May 1808*** by the artist Fransico de Goya is one of the most famous painting that 
 essence my essays subjectively and objectively. 
