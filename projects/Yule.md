@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "idk"
+image: img/images.jpg
+title: "Yule Sabbat Holiday"
 date: 2022
 published: true
 labels:
