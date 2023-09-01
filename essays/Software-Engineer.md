@@ -3,7 +3,6 @@
 layout: essay
 type: essay
 title: "Embarking Journey to Software Engineer"
-# All dates must be YYYY-MM-DD format!
 date: 2022-08-26
 published: true
 labels:
