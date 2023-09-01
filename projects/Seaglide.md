@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/IMG_8157.jpg
 title: "Seaglides through Ocean"
 date: 2019
 published: true
