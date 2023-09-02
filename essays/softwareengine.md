@@ -4,7 +4,7 @@ type: essay
 title: "Embarking on a Journey to Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-25
-published: true
+published: false
 labels:
   - Engineering
   - Software Engineering
