@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Third of may.jpg
 title: "Concept of Art"
-date: 2022
+date: 2022-11-18
 published: ture
 labels:
   - Subjective
