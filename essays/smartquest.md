@@ -31,3 +31,5 @@ with no story and how they tried to fix it and show the error as a text. This qu
 that it is a school project). They missed the guidelines of being disrespectful and not making the effort to acknowledge someone who could answer them.
 
 
+[Error UDP message](https://stackoverflow.com/questions/76975540/im-not-quite-sure-which-side-is-the-cause-that-my-android-app-cant-receive-a-u).
+[8th string character](https://stackoverflow.com/questions/48627360/get-from-8th-string-character-to-last-string-character).
