@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Third of may.jpg
+image: img/3rdOfMay.png
 title: "Concept of Art"
 date: 2022-11-18
 published: ture
