@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting on AI"
 date: 2023-11-19
+published: true
 labels:
   - Software Engineering
   - AI
