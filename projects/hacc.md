@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: Reppor.png
+image: img/Reppor.png
 title: "HACC Competition"
 date: 2023-11-6
 published: true
