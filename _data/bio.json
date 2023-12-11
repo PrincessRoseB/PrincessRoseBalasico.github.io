@@ -1,0 +1,142 @@
+{
+	"basics": {
+		"name": "Princess Rose Balasico",
+		"label": "Student",
+		"picture": "https://github.com/princessrosebalasico.png",
+		"email": "balasico@hawaii.edu",
+		"phone": "",
+		"website": "https://princessrosebalasico.github.io",
+		"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+		"location": {
+			"address": "",
+			"postalCode": "96819",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "princessrosebalasico",
+				"url": "http://github.com/princessrosebalasico"
+			},
+			{
+				"network": "linkedin",
+				"username": "Princess Rose Balasico",
+				"url": "http://www.linkedin.com/in/princess-rose-balasico-b4032728a"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Software Engineering"
+		},
+		{
+			"name": "Gaming development"
+		},
+		{
+			"name": "Sustainability"
+		},
+		{
+			"name": "Crafting"
+		},
+		{
+			"name": ""
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"keywords": ["C", "Java", "Javascript"]
+		},
+		{
+			"name": "Toolsets/OS",
+			"keywords": ["MacOS", "Windows 11", "Git/GitHub", "Js.Fiddle", "Maya"]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Computer Science ",
+		"studyType": "B.S.",
+		"startDate": "2023-01-14",
+		"endDate": "2025-05-26",
+		"courses": [
+        ]
+	}],
+	"work": [{
+			"company": "Discount Furniture Warehouse",
+			"position": "Secretary",
+			"website": "",
+			"startDate": "2018-06-01",
+			"endDate": "2018-09-25",
+			"summary": "Dealing with pricing items and dealt with transaction.",
+			"highlights": [
+				"Maintain, update, and oversee costs of furnitures"
+			]
+		},
+		{
+			"company": "Domino's",
+			"position": "Assistant Mananger",
+			"website": "https://www.dominos.com/",
+			"startDate": "2019-07-01",
+			"endDate": "2020-07-15",
+			"summary": "Managing the store and confirm correct orders",
+			"highlights": [
+				"Supervising the day and night shift workers",
+				"Answer phone and controlling revenue money "
+			]
+		},
+		{
+			"company": "Baskin Robbins",
+			"position": "Upcoming Assistant Manager",
+			"website": "https://www.baskinrobbins.com/",
+			"startDate": "2016-06-01",
+			"endDate": "Present",
+			"summary": "Handling customers and managing the store",
+			"highlights": [
+				"Decorating cakes",
+				"Answer phone and inventory "
+			]
+		}
+	],
+	"volunteer": [{
+			"organization": "Fundraising for Farrington High School Wrestling",
+			"website": "",
+			"position": "Cashier",
+			"startDate": "2014-08-20",
+			"endDate": "2014-12-18",
+			"summary": "A fundraiser for wrestling club. ",
+			"highlights": [
+				"Managing money",
+				"Maintaining friendly customer service"
+			]
+		},
+		{
+			"organization": "Beach clean up",
+			"website": "",
+			"position": "Cleaner upper",
+			"startDate": "2019-09",
+			"endDate": "2019-09",
+			"summary": "Removed chunks of trash from going into the ocean.",
+			"highlights": [
+				"Event where everyone could participate",
+				"Started before sunrise till the late afternoon"
+			]
+		}
+	],
+	"awards": [{
+			"title": "",
+			"date": "",
+			"awarder": "",
+			"summary": ""
+		},
+		{
+			"title": "",
+			"date": "",
+			"awarder": "",
+			"summary": ""
+		}
+	],
+	"references": [{
+		"name": "Mae Ann Undaundo"
+      
+		
+	}]
+}
