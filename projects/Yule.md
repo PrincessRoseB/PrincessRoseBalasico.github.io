@@ -4,7 +4,7 @@ type: project
 image: img/images.jpg
 title: "Yule Sabbat Holiday"
 date: 2022
-published: true
+published: false
 labels:
   - Essay Project 
   - Yule Sabbat
