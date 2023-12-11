@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: Reppor.png
-title: "Concept of Art"
-date: 2022-11-18
+title: "HACC Competition"
+date: 2023-11-6
 published: true
 labels:
   - Software Engineering
