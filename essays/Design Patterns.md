@@ -3,7 +3,6 @@ layout: essay
 type: essay
 title: "Refelcting on Design Patterns"
 date: 2023-11-27
-published: false
 draft: true
 labels:
   - Software Engineering
