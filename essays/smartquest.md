@@ -4,7 +4,7 @@ type: essay
 title: "Are you SMART or a loser?"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-3
-published: true
+published: false
 labels:
   - SMART
 
