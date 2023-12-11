@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: cropped-Reppor.png
 title: "Concept of Art"
 date: 2022-11-18
 published: true
