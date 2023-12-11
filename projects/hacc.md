@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3rdOfMay.png
+image: 
 title: "Concept of Art"
 date: 2022-11-18
 published: true
