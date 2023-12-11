@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: cropped-Reppor.png
+image: Reppor.png
 title: "Concept of Art"
 date: 2022-11-18
 published: true
@@ -13,24 +13,27 @@ labels:
 summary: "Appreciating the world of Art Subjectively and Objectively."
 ---
 
+# Hawaii Annual Code Challenge
+
+In the world of technology competitions, solving practical issues as well as showcasing technical proficiency is frequently the difficult part of the task. This essay explores my involvement in a web development competition that aims to utilize the skills of teams of students from high school to university. The major objective was to develop an app or website with distinct categories, each chosen by subject matter experts who were looking for innovative approaches in their fields of expertise. Along with offering a creative outlet, this competition paid generous cash rewards to the top three group winners.
+
+## The Project and Team Dynamics
+
+My five-person group set out to tackle one of the most important environmental problems: the amount of waste that is present on an island. Our group's goal was to create a website that could manage and identify debris using reports that users submitted. Through the portal, people could create groups devoted to environmental sustainability or register accounts. Users were able to provide critical data about the debris, such as its position, size, and closeness to the sea—all of which are important factors in assessing the debris's possible effects on marine ecosystems—through the reporting tool.
+
+## Functionality Overview
+
+Various sections of our website were designed to make the overall debris management procedure easier. Users had to report debris in the first step to provide crucial information for an efficient response. A later portion made it easier for individuals or groups to coordinate their cleanup activities. After acknowledging that the trash had been gathered, the procedure concluded with a last page that described the creative ways in which the materials were repurposed, whether by recycling, repurposing, or other environmentally friendly methods.
+
+## Technical Challenges:
+
+The intricate technical details of our project presented significant difficulties. However, our group's ability to work together was crucial in getting beyond these obstacles. The development process was accelerated by utilizing a Meteor template, which closely matched the goals of our project. The template provided a clear framework for managing collections, integrating scripts, and customizing websites. Despite the early difficulties, we were able to continuously progress as a team and eventually secured a place in the competition finals.
+
+## Results and Reflection
+
+Even though we made it to the last round, we were unable to win the cash award. Nonetheless, the experience made a big difference in how well I understood software engineering and web design. My technical abilities were refined by the competition, but it also inspired creativity and ingenuity in me. The one-month project completion deadline pushed us to be self-sufficient and encouraged us to take bold, decisive action.
 
 
- ***Third of May 1808*** by the artist Fransico de Goya is one of the most famous painting that 
-essence my essays subjectively and objectively. 
-Subjective in art is the technique and inspiration of how an artist put together a masterpiece. 
-Objective in art is the history and ananlogy of what the artist want and not now want to show the audience.
-
-This painting is based off a battle in Spain in May 2, 1808 and it depicted as if you are in the 
-painting capturing the reality at that time. For example, two of my essays is broken down to (1) materials and colors that
-encapsulate the moment of the tragedy and the symbolism of acceptance emulating from the people in the painting to 
-(2) the positions of people meaning the two sides of power and the reason behind a noble man placing him right in the
-center of the painting .
-
-This has taught me the apprieceation of the art world. Being creative is wornderful but using putting in meaning
-behind the creativeness is much more genuine. I believe the reason for museum is to look at art is too look at the color 
-or the height or even see the famous painting everyone is talking about. What I have realized is understanding the reason to 
-why they made it, could it be a aproach to protest? Could it be a history that impacted the artist life? Or could it be an art 
-that creates their way of expressing themselves? 
 
 
 <hr>
@@ -41,5 +44,5 @@ that creates their way of expressing themselves?
 
 <hr>
 
- [Subjective Essay](https://docs.google.com/document/d/18ZAHW6dg9n-ab7lhfQNIz7BMGfR5IaLo/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true).
- [Objective Essay](https://docs.google.com/document/d/1Apwogj6Was1bOKvR1_3axwDVW1avxGgd/edit?usp=sharing&ouid=109645485283788535952&rtpof=true&sd=true).
+ [Repport](https://repport.online/).
+ [Summary or Repport](https://phobs-co.github.io/).
