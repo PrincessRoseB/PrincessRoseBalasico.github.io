@@ -4,7 +4,7 @@ type: essay
 title: "Navigating the World of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-19
-published: true
+published: false
 labels:
   - ESLint
   - Intellij
